@@ -6,7 +6,7 @@ public class Tutorial
    {
       System.Console.WriteLine("Hello Lance and Tim and Shelley!");
 	  hiihi
-   }
+   } 
 }
 
-hi kevin
+hi mister kevolutioin
